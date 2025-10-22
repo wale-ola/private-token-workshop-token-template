@@ -14,7 +14,7 @@ TODO:
 
 ====================================================================================================================  
 */
-program waleoToken.aleo {
+program olawaleToken.aleo {
     mapping balances: address => u64;  // On-chain mapping between user addresses and public token balances
 
     record Token {
